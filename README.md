@@ -4,7 +4,8 @@
 
 I am a passionate Computer Engineering student focused on the intersection of **Cybersecurity** and **Artificial Intelligence**. I love dissecting malware, hunting for vulnerabilities, and building intelligent systems that make the digital world safer.
 
-[Uploading Gemini_Generated_Image_6otlta6otlta6otl.png…]
+<img width="2740" height="1536" alt="foto1" src="https://github.com/user-attachments/assets/3b9c5e6f-b4ce-4666-8d2b-6d23c73cc25a" />
+
 
 ### 🔍 About Me
 
