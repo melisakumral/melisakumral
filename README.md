@@ -11,26 +11,33 @@ I am a passionate Computer Engineering student focused on the intersection of **
 - 🔭 **Currently working on:** AI-powered plant disease detection and advanced penetration testing.
 - 🛡️ **Cybersecurity Focus:** Reverse Engineering, Malware Analysis, and Network Security.
 - 🎓 **Education:** 3rd Year Computer Engineering student at ZBEU.
-- 🎖️ **Certifications:** Certified Associate Penetration Tester (CAPT) by Hackviser.
+- 🎖️ **Certifications:** [HACKVISER] CAPT Certified Associate Penetration Tester.
 - 💡 **Community:** Active member of Siber Vatan and Karaelmas AI Community.
 - 🌱 **Learning:** Deepening my knowledge in Web3, Blockchain, and advanced Exploit Development.
 
 ---
 
-### 🛠️ Technical Toolbox
+### 📫 Connect with me:
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+<a href="https://www.linkedin.com/in/melisa-kumral-782b26295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Melisa Kumral" height="30" width="40" /></a>
+<a href="https://twitter.com/kullanici_adin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Melisa Kumral" height="30" width="40" /></a>
+</p>
 
-#### 🛡️ Cybersecurity Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=data-analysis&logoColor=white)
-![Debugger](https://img.shields.io/badge/x64%20%2F%20x32%20Debugger-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/burpsuite/burpsuite-icon.svg" alt="burpsuite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/binary.svg" alt="x64dbg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -42,13 +49,6 @@ I am a passionate Computer Engineering student focused on the intersection of **
 </p>
 
 ---
-
-### 📫 Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/melisa-kumral-782b26295)
-
-
-<br />
-
----
-*“In the world of security, the only constant is change. Adapt or be bypassed.”* 🛡️✨
+<p align="center">
+<i>“In the world of security, the only constant is change. Adapt or be bypassed.”</i> 🛡️✨
+</p>
