@@ -40,12 +40,6 @@ I am a passionate Computer Engineering student focused on the intersection of **
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melisakumral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisakumral&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 <p align="center">
