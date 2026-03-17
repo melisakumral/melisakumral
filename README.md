@@ -10,7 +10,7 @@ I am a passionate Computer Engineering student focused on the intersection of **
 
 - 🔭 **Currently working on:** AI-powered plant disease detection and advanced penetration testing.
 - 🛡️ **Cybersecurity Focus:** Reverse Engineering, Malware Analysis, and Network Security.
-- 🎓 **Education:** 3rd Year Computer Engineering student at ZBEU.
+- 🎓 **Education:** 3rd Year Computer Engineering student.
 - 🎖️ **Certifications:** [HACKVISER] CAPT Certified Associate Penetration Tester.
 - 💡 **Community:** Active member of Siber Vatan and Karaelmas AI Community.
 - 🌱 **Learning:** Deepening my knowledge in Web3, Blockchain, and advanced Exploit Development.
@@ -21,7 +21,6 @@ I am a passionate Computer Engineering student focused on the intersection of **
 
 <p align="left">
 <a href="https://www.linkedin.com/in/melisa-kumral-782b26295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Melisa Kumral" height="30" width="40" /></a>
-<a href="https://twitter.com/kullanici_adin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Melisa Kumral" height="30" width="40" /></a>
 </p>
 
 ---
